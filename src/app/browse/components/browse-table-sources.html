@@ -3,6 +3,7 @@
     <div
         ng-repeat="source in browse.browseService.sources track by source.uri"
         ng-click="browse.fetchLibrary(source)"
+        ng-if="!(source.name == '网络电台' || source.name == '音乐题材'|| source.name == '最近的100首'|| source.name == 'Media Servers')"
         class="itemWrapper">
       <div class="itemTab">
         <div class="image" ng-attr-id="{{source.active ? 'source-active': ''}}">

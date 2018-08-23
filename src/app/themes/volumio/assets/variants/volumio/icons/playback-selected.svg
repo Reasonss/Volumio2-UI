@@ -1,1 +1,15 @@
-<svg id="icone" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 38.33 38.33"><defs><style>.cls-1,.cls-2{fill:#fff;}.cls-1{stroke:#fff;stroke-miterlimit:10;stroke-width:1.5px;}</style></defs><title>Volumio_icon_volumio-icon</title><path class="cls-1" d="M6534.44,71.52a1.37,1.37,0,0,1-1.18-.68l-3.55-6.14a1.36,1.36,0,1,1,2.36-1.36l3.55,6.14A1.36,1.36,0,0,1,6534.44,71.52Z" transform="translate(-6516.63 -53.61)"/><path class="cls-2" d="M6535.8,58.61a14.17,14.17,0,1,1-14.17,14.17,14.17,14.17,0,0,1,14.17-14.17m0-5A19.17,19.17,0,1,0,6555,72.77a19.19,19.19,0,0,0-19.17-19.17h0Z" transform="translate(-6516.63 -53.61)"/></svg>
+<svg width="38.33" height="38.33" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.cls-1,.cls-2{fill:#fff;}.cls-1{stroke:#fff;stroke-miterlimit:10;stroke-width:1.5px;}</style>
+ </defs>
+ <title>Volumio_icon_volumio-icon</title>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path transform="rotate(90 19.438356399536133,20.638904571533207) " id="svg_2" d="m18.014968,6.760047a14.17,14.17 0 1 1 -14.17,14.17a14.17,14.17 0 0 1 14.17,-14.17m0,-5a19.17,19.17 0 1 0 19.2,19.16a19.19,19.19 0 0 0 -19.17,-19.17l0,0l-0.03,0.01z" class="cls-2"/>
+  <path transform="rotate(90 21.468530654907227,19.25386428833008) " id="svg_3" d="m14.75406,25.129023l6.714469,-11.750317l6.714469,11.750317l-13.428939,0z" fill-opacity="null" stroke-opacity="null" stroke-width="NaN" stroke="null" fill="#ffffff"/>
+ </g>
+</svg>

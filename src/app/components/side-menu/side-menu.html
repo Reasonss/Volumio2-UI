@@ -19,6 +19,7 @@
     <button
         ng-repeat="item in sideMenu.menuItems track by $index"
         ng-click="sideMenu.itemClick(item)"
+        ng-if="item.name =='网络'||item.name =='关机'||item.name =='睡眠'||item.name == '插件'"
         class="btn-link btn-block">
           {{::item.name}}
     </button>

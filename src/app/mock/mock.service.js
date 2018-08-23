@@ -435,21 +435,21 @@ class MockService {
           plugin_type: 'music_service',
           plugin_name: 'mpd'
         },
-        {
-          albumart: '/albumart?sourceicon=music_service/last_100/icon.svg',
-          name: 'last 100',
-          uri: 'Last_100',
-          plugin_type: 'music_service',
-          plugin_name: 'last_100'
-        },
-        {
-          albumart: '/albumart?sourceicon=music_service/webradio/icon.svg',
-          icon: 'fa fa-microphone',
-          name: 'Web Radio',
-          uri: 'radio',
-          plugin_type: 'music_service',
-          plugin_name: 'webradio'
-        },
+        /*{
+           albumart: '/albumart?sourceicon=music_service/last_100/icon.svg',
+           name: 'last 100',
+           uri: 'Last_100',
+           plugin_type: 'music_service',
+           plugin_name: 'last_100'
+         },
+       {
+           albumart: '/albumart?sourceicon=music_service/webradio/icon.svg',
+           icon: 'fa fa-microphone',
+           name: 'Web Radio',
+           uri: 'radio',
+           plugin_type: 'music_service',
+           plugin_name: 'webradio'
+         },*/
         {
           name: 'Audio CD',
           uri: 'cd',
